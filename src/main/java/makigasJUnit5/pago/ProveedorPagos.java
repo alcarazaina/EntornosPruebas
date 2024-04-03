@@ -1,2 +1,4 @@
-package makigasJUnit5.pago;public class ProveedorPagos {
+package makigasJUnit5.pago;
+
+public class ProveedorPagos {
 }

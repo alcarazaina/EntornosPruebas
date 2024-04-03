@@ -1,2 +1,4 @@
-package makigasJUnit5.pago;public class PagoException {
+package makigasJUnit5.pago;
+
+public class PagoException extends Throwable{
 }
