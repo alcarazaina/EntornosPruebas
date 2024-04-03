@@ -1,6 +1,7 @@
 package makigasJUnit5.catalogo;
 
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -27,8 +28,16 @@ class PedidoTest {
         Producto p2 = new Producto("Canela", 200);
 
         Pedido p = new Pedido();
+        //Vamos a probar que cuando el pedido está vacío la cantidad que devuelve es 0.
+        Assertions.assertEquals(0, p.cantidad());
         p.agregar(p1);
+        var total = p.cantidad();
+        Assertions.assertEquals(1, total);
         p.agregar(p2);
+        total = p.cantidad();
+        Assertions.assertEquals(2, total);
+
+
     }
 
     @Test
