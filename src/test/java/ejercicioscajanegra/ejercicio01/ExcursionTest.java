@@ -55,4 +55,16 @@ class ExcursionTest {
         e = new Excursion(50);
         assertEquals(3500, e.calcularCosteExcursion());
     }
+    @Test
+    @DisplayName("coste total: 30 alumnos")
+    void calcularCosteExcursion3() {
+        e = new Excursion(30);
+        assertEquals(2850, e.calcularCosteExcursion());
+    }
+    @Test
+    @DisplayName("coste total: 29 alumnos")
+    void calcularCosteExcursion4() {
+        e = new Excursion(29);
+        assertEquals(4000, e.calcularCosteExcursion());
+    }
 }
