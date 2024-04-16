@@ -4,12 +4,8 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-N
-src/main/java/Calculadora.java,1\2\125a9ff7a1f8bc2f22e9d20629296d681d84b502
 R
 "src/test/java/CalculadoraTest.java,a\e\ae520ead44943020ddbb544c3edf1dfde1f1ae63
-U
-%src/main/java/SaliendoDeLaCrisis.java,a\8\a81440e38b2421b8bc445375f8573355f44396c1
 a
 1src/main/java/makigasJUnit5/catalogo/Carrito.java,2\a\2aa5fe187f9918dae41653e6873a0f69a71fec34
 b
@@ -41,8 +37,6 @@ Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61
 e
 5src/main/java/ejemplossueltos/SaliendoDeLaCrisis.java,f\8\f810229cfa1a07bb2f3b3a98824053e14db85835
 Å
-Q.idea/sonarlint/securityhotspotstore/a/8/a81440e38b2421b8bc445375f8573355f44396c1,b\a\ba3bc1c0b6140b8928adafa79db1450f74f259cc
-Å
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
 Å
 Q.idea/sonarlint/securityhotspotstore/0/7/07bb19277e55e150780eed84805fa4ef3504331e,8\1\81b4d9e93734428e90128d660ff73a1d0e2f3d8f
@@ -60,3 +54,7 @@ Q.idea/sonarlint/securityhotspotstore/d/8/d826ae9df05906a052c71747cad7a1373d8bc2
 .src/main/java/ejemplossueltos/Calculadora.java,a\c\ac32b952f9c605af062991b8846fbcbb6a132d35
 w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
+Ä
+Psrc/test/java/ejercicioscajanegra/ejercicio01/ExcursionMetodosEstaticosTest.java,e\f\efbfa96e1c0750bf5ffd4c74c66aced3ea4552aa
+p
+@src/test/java/ejercicioscajanegra/ejercicio01/ExcursionTest.java,5\b\5b5dbec161d819f6fe4b1f4350006f28538bf7e0
