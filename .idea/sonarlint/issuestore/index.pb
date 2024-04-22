@@ -58,3 +58,7 @@ G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0
 Psrc/test/java/ejercicioscajanegra/ejercicio01/ExcursionMetodosEstaticosTest.java,e\f\efbfa96e1c0750bf5ffd4c74c66aced3ea4552aa
 p
 @src/test/java/ejercicioscajanegra/ejercicio01/ExcursionTest.java,5\b\5b5dbec161d819f6fe4b1f4350006f28538bf7e0
+k
+;src/main/java/ejemploscajanegra/ComprobarIdentificador.java,4\a\4a5ed479abfe7d01ecad42375943f08bea877faa
+o
+?src/test/java/ejemploscajanegra/ComprobarIdentificadorTest.java,5\5\55cc6d69cb6fc3df1780930771d13b2ec8aa1f10
