@@ -62,3 +62,7 @@ k
 ;src/main/java/ejemploscajanegra/ComprobarIdentificador.java,4\a\4a5ed479abfe7d01ecad42375943f08bea877faa
 o
 ?src/test/java/ejemploscajanegra/ComprobarIdentificadorTest.java,5\5\55cc6d69cb6fc3df1780930771d13b2ec8aa1f10
+n
+>src/main/java/ejercicioscajanegra/ejercicio02/Ejercicio02.java,8\a\8a79d8d77e76baa2313bb94e768db51e2fae840e
+S
+#src/main/java/javadoc/Empleado.java,f\c\fc238d4944b603e5dd639918d4d2bd8990761e51
