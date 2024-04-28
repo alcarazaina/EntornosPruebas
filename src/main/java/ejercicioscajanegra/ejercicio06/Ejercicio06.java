@@ -19,10 +19,6 @@ public class Ejercicio06 {
 
     }
     public boolean validarDNI (String dni){
-        if(comprobarDNI(dni) && comprobarLetra(dni)){
-            return true;
-        } else {
-            return false;
-        }
+        return comprobarDNI(dni) && comprobarLetra(dni);
     }
 }
