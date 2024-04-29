@@ -28,4 +28,13 @@ class Ejercicio05Test {
         System.setIn(in);
         assertNotEquals(159, Ejercicio05.calcularFactorial());
     }
+    @Test
+    @DisplayName("Calcular factorial de 0")
+    void calcularFactorial0() {
+        // Simular la entrada estándar System.in
+        String input = "0";
+        InputStream in = new ByteArrayInputStream(input.getBytes());
+        System.setIn(in);
+        assertEquals(1, Ejercicio05.calcularFactorial());
+    }
 }

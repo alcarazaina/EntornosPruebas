@@ -8,9 +8,14 @@ public class Ejercicio05 {
         Scanner teclado = new Scanner(System.in);
         int numero = teclado.nextInt();
         int resultado = 1;
-        for (int i = 1; i <= numero; i++) {
-            resultado *= i;
+        if (numero == 0){
+            return 1;
+        }else {
+
+            for (int i = 1; i <= numero; i++) {
+                resultado *= i;
+            }
+            return resultado;
         }
-        return resultado;
     }
 }

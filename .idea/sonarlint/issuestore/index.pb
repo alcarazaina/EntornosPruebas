@@ -76,3 +76,7 @@ r
 Bsrc/test/java/ejercicioscajanegra/ejercicio06/Ejercicio06Test.java,e\7\e7b140ff2dac20264caab3d62295b5eb8ff6ace6
 n
 >src/main/java/ejercicioscajanegra/ejercicio06/Ejercicio06.java,c\e\ce238bf0481d1e5b3b675cc92e0ec2e19bafb4ab
+n
+>src/main/java/ejercicioscajanegra/ejercicio05/Ejercicio05.java,2\1\21c3be2609515e105c02bb574b385dc5f49371e6
+r
+Bsrc/test/java/ejercicioscajanegra/ejercicio05/Ejercicio05Test.java,1\8\18c918ea081830202b63fb27eaa45668554f6037
