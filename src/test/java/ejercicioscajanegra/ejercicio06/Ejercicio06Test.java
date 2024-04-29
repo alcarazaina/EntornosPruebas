@@ -16,7 +16,7 @@ class Ejercicio06Test {
     @Test
     @DisplayName("Comprobar DNI, longitud 8")
     void validarDNI1() {
-        assertFalse(lector.validarDNI("12345678"));
+        assertFalse(lector.validarDNI("1234567Z"));
     }
     @Test
     @DisplayName("Comprobar DNI, Letra incorrecta")

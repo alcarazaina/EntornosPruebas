@@ -66,3 +66,13 @@ n
 >src/main/java/ejercicioscajanegra/ejercicio02/Ejercicio02.java,8\a\8a79d8d77e76baa2313bb94e768db51e2fae840e
 S
 #src/main/java/javadoc/Empleado.java,f\c\fc238d4944b603e5dd639918d4d2bd8990761e51
+r
+Bsrc/test/java/ejercicioscajanegra/ejercicio03/Ejercicio03Test.java,4\e\4ee7eee8da924a9b7dd69ea539cea71120a0b442
+n
+>src/main/java/ejercicioscajanegra/ejercicio03/Ejercicio03.java,1\6\16853bc7d919002e18a8ba92f9ae27c68bce5b1b
+r
+Bsrc/test/java/ejercicioscajanegra/ejercicio02/Ejercicio02Test.java,5\c\5ce3bd283aabc6b083011bffeacae3ea4e8be3e4
+r
+Bsrc/test/java/ejercicioscajanegra/ejercicio06/Ejercicio06Test.java,e\7\e7b140ff2dac20264caab3d62295b5eb8ff6ace6
+n
+>src/main/java/ejercicioscajanegra/ejercicio06/Ejercicio06.java,c\e\ce238bf0481d1e5b3b675cc92e0ec2e19bafb4ab
